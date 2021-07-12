@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Models
+namespace Isogram.Models
 {
     public class Alphabet
     {
