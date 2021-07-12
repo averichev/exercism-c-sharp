@@ -1,9 +1,19 @@
-﻿using System;
+﻿using Models;
 
-public static class Isogram
+namespace Isogram
 {
-    public static bool IsIsogram(string word)
+    public static class Isogram
     {
-        throw new NotImplementedException("You need to implement this function.");
+        public static bool IsIsogram(string word)
+        {
+            var alphabet = new Alphabet();
+            foreach (var letter in word)
+            {
+                alphabet.AddLetter(letter.ToString());
+            }
+
+            var result = alphabet.IsIsogram();
+            return result;
+        }
     }
 }
