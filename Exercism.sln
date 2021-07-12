@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFer", "two-fer\TwoFer.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "isogram\Isogram.csproj", "{A3710444-D04D-487B-9B36-D246FE9EE654}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acronym", "acronym\Acronym.csproj", "{EBA91FF5-F883-4237-870A-06BFF76F82F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{A3710444-D04D-487B-9B36-D246FE9EE654}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3710444-D04D-487B-9B36-D246FE9EE654}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3710444-D04D-487B-9B36-D246FE9EE654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
