@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "isogram\Isogram.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acronym", "acronym\Acronym.csproj", "{EBA91FF5-F883-4237-870A-06BFF76F82F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "reverse-string\ReverseString.csproj", "{3C877223-63A5-464E-B399-A86B1081CE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA91FF5-F883-4237-870A-06BFF76F82F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C877223-63A5-464E-B399-A86B1081CE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C877223-63A5-464E-B399-A86B1081CE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C877223-63A5-464E-B399-A86B1081CE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C877223-63A5-464E-B399-A86B1081CE18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
