@@ -8,3 +8,4 @@ riderModule.iml
 **.dll
 **.user
 **/obj/
+**.editorconfig
