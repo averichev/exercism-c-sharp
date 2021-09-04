@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "grains\Grains.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RnaTranscription", "rna-transcription\RnaTranscription.csproj", "{21E22D59-ACC7-418B-9C8A-6BDCD8E0BFDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuciansLusciousLasagna", "lucians-luscious-lasagna\LuciansLusciousLasagna.csproj", "{FE7F240F-8C04-49AB-8A12-63DA2BC85617}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{21E22D59-ACC7-418B-9C8A-6BDCD8E0BFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21E22D59-ACC7-418B-9C8A-6BDCD8E0BFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21E22D59-ACC7-418B-9C8A-6BDCD8E0BFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7F240F-8C04-49AB-8A12-63DA2BC85617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7F240F-8C04-49AB-8A12-63DA2BC85617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7F240F-8C04-49AB-8A12-63DA2BC85617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7F240F-8C04-49AB-8A12-63DA2BC85617}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
